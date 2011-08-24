@@ -1,0 +1,9 @@
+#Ignore all vim tmp files
+*.swp
+*.un~
+
+#Mac OS X files
+.DS_Store
+
+#Silverstripe Config File
+mysite/_config.php
